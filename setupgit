@@ -1,0 +1,2 @@
+git config --global user.email "rstudio@vnsny.org"
+git config --global user.name "VNSNY BIA Service Account"
